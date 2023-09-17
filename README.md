@@ -9,3 +9,6 @@ How it works:
 
 * Job seekers choose the industry they are interested in and their resume is automatically sent to the partnered companies of that industry.
 
+* Companies choose which applicants to accept for an interview.
+
+* Accepted applicants are notified and choose to accept or reject the offer.
