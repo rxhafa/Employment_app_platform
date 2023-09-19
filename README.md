@@ -1,8 +1,8 @@
 # Employment_app_platform
 
 <div style=" display:inline-flex;">
-  <img style="width: 50%;" src="applicants.png">
-  <img style="width: 50%;" src="recruiters.png">
+  <img style="width: 100%;" src="applicants.png">
+  <img style="width: 100%;" src="recruiters.png">
 </div>
 MyJob is an employment company that provides recruitement solutions to companies and jobseekers.
 How it works:
