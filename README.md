@@ -1,6 +1,6 @@
 # Employment_app_platform
 
-<div style="width: 100%; display:inline-flex">
+<div style="width: 100%; display:inline-flex;">
   <img style="width: 50%;" src="applicants.png">
   <img style="width: 50%;" src="recruiters.png">
 </div>
