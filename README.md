@@ -15,3 +15,4 @@ How it works:
 
 <img style="width:100%" src="login.png">
 <img style="width:100%" src="signup.png">
+<img style="width:100%" src="companies.png">
