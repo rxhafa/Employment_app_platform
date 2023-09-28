@@ -13,3 +13,4 @@ How it works:
 4. Companies choose which applicants to accept for an interview.
 5. Accepted applicants are notified and choose to accept or reject the offer.
 
+<img style="width:100%" src="login.png">
