@@ -14,3 +14,4 @@ How it works:
 5. Accepted applicants are notified and choose to accept or reject the offer.
 
 <img style="width:100%" src="login.png">
+<img style="width:100%" src="signup.png">
