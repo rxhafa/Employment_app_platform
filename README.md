@@ -16,3 +16,6 @@ How it works:
 <img style="width:100%" src="login.png">
 <img style="width:100%" src="signup.png">
 <img style="width:100%" src="companies.png">
+
+<img style="width:100%" src="cv_example.png">
+<img style="width:100%" src="cv_example2.png">
